@@ -1,5 +1,4 @@
 # GoStack desafio conceitos de NodeJS
 
+Solution for the challenge "Conceitos de NodeJS" of bootcamp Jornada GoStack by [Rocketseat](https://github.com/rocketseat-education).
 
-
-Solução do desafio "Conceitos de NodeJS" do bootcamp Jornada GoStack da [Rocketseat](https://github.com/rocketseat-education).
